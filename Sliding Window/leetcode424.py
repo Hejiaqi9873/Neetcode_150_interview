@@ -32,3 +32,4 @@ class Solution:
 if __name__ == '__main__':
     solution = Solution().characterReplacement(s = "ABABBAAA", k = 2)
     print(solution)
+    
